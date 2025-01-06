@@ -108,7 +108,7 @@ This project was developed as a final year project by:
 
 - [Saad Shaikh](https://github.com/saaadshk)
 - [Usaid Shaikh](https://github.com/usaid-shaikh)
-- [Rehan Shaikh](https://github.com/rehan-shaikh)
+- [Rehan Shaikh](https://github.com/shk-rehan8)
 - [Aurangzeb Shaikh](https://github.com/aurangzeb-shaikh)
 - [Yusuf Dhotekar](https://github.com/yusuf-dhotekar)
 
@@ -126,9 +126,9 @@ Contributions are welcome! Feel free to:
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-saaadshk-black?style=for-the-badge&logo=github)](https://github.com/saaadshk)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saad_Shaikh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/saad-shaikh-b23089214)
+[![GitHub](https://img.shields.io/badge/GitHub-rehan_shaikh-black?style=for-the-badge&logo=github)](https://github.com/shk-rehan8)
+[![LinkedIn](https://www.linkedin.com/in/rehan-shaikh-577a80184)]()
 
 ---
 
-Made with ❤️ by Saad Shaikh & Team
+Made with ❤️ by Rehan Shaikh & Team
