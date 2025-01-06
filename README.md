@@ -127,7 +127,7 @@ Contributions are welcome! Feel free to:
 ## 🌐 Connect With Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-rehan_shaikh-black?style=for-the-badge&logo=github)](https://github.com/shk-rehan8)
-[![LinkedIn](https://www.linkedin.com/in/rehan-shaikh-577a80184)]()
+[![LinkedIn](https://www.linkedin.com/in/rehan-shaikh-577a80184)
 
 ---
 
